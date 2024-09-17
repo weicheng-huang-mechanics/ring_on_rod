@@ -6,7 +6,7 @@ Dynamic modeling of a sliding ring on an elastic rod.
 
 <br/><img src='demo1.gif' width="400">
 
-<br/><img src='demo2.gif' width="400">
+<br/><img src='demo3.gif' width="400">
 
 To run this code, you should have a Linux Ubuntu system
 
